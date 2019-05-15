@@ -9,6 +9,7 @@
 - 平均转发数为2787，点赞数为9295；
 - 数量排名前五位的狗狗名字分别是：'Charlie', 'Cooper', 'Oliver', 'Tucker', 'Lucy';
 - 在所有的1477条记录中，狗狗品种共有111 种,其中排名前10位的狗狗品种 ['golden_retriever', 'Labrador_retriever', 'Pembroke', 'Chihuahua', 'pug', 'chow', 'Samoyed', 'Pomeranian', 'toy_poodle', 'malamute'] 的数量占狗狗总数量的43.0%;
+![](https://raw.githubusercontent.com/ketra21/data_cleaning/master/se_count.png)
 - 评分最高的前10位的狗狗品种分别是：'clumber', 'soft-coated_wheaten_terrier', 'West_Highland_white_terrier','Great_Pyrenees', 'borzoi', 'Labrador_retriever', 'Siberian_husky','golden_retriever', 'Pomeranian', 'Saluki'：
 - retweet_count和favorite_count呈现正相关性；
 
